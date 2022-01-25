@@ -7,7 +7,7 @@ A simple calendar application that allows the user to save events for each hour 
 
 Demo: https://donl44.github.io/workday-scheduler/
 
-![day planner demo](assets\images\workday-scheduler.png)
+![Day Planner Demo](assets\images\workday-scheduler.png)
 
 ## Built With
 
@@ -15,4 +15,3 @@ Demo: https://donl44.github.io/workday-scheduler/
   * CSS
   * JavaScript
   * jQuery
-  * Moment.js
