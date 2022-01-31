@@ -44,6 +44,7 @@
     font-weight: bold;
     height: 79px;
     color: #1f1f1f;
+    border-radius: 50%;
   }
   .past {
     background-color: #dfe6e9;
